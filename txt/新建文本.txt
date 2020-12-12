@@ -1,0 +1,2 @@
+readme
+这是在F:\GitHub2016\SoruceTreeLinkGitHub\txt目录用sourceTree git软件控制版本
